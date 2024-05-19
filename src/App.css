@@ -102,3 +102,9 @@ img{
     justify-content: center;
 }
 
+.course-status{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
